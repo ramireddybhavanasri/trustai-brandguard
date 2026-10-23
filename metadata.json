@@ -1,0 +1,6 @@
+{
+  "name": "TrustAI BrandGuard",
+  "description": "Intelligent brand-governance platform to protect your brand before you publish with explainable findings and approval workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
